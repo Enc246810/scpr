@@ -37,14 +37,14 @@ end
 gg.alert[[
 [ By SimpleCodeStudio ]
 ------------------------------------------------------------
-SIMCITY SCRIPT
+SIMCITY PREMIUM SCRIPT
 ------------------------------------------------------------
 What's New?
-Updated: 21/09/2023
+Updated: 01/10/2023
 
 ✓- Fixed Android 11 and up devices. (BETA)
 
-✓- Added: Console
+✓- Added: Strong Console
 
 ------------------------------------------------------------
 ]]
